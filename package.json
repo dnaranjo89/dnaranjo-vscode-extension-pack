@@ -1,0 +1,22 @@
+{
+    "name": "dnaranjo-vscode-extension-pack",
+    "displayName": "dnaranjo-vscode-extension-pack",
+    "description": "My extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "eamodio.gitlens", 
+        "esbenp.prettier-vscode", 
+        "fabiospampinato.vscode-open-in-github", 
+        "GitHub.copilot", 
+        "Orta.vscode-jest", 
+        "richie5um2.vscode-sort-json"
+    ]
+}
